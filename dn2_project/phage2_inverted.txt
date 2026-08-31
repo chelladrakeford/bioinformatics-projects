@@ -1,0 +1,80 @@
+
+MH617643.1: Score 34: 20/22 ( 90%) matches, 0 gaps
+      73 ccgagtgccttaagacggtggg 94      
+         ||||| |||||||| |||||||
+     137 ggctctcggaattccgccaccc 116     
+
+MH617643.1: Score 32: 19/21 ( 90%) matches, 0 gaps
+     162 gggcagggctagttgggcaga 182     
+         ||||| |||||| ||||||||
+     253 cccgttccgatctacccgtct 233     
+
+MH617643.1: Score 20: 10/10 (100%) matches, 0 gaps
+     951 agctatatat 960     
+         ||||||||||
+    1726 tcgatatata 1717    
+
+MH617643.1: Score 24: 15/17 ( 88%) matches, 0 gaps
+    1791 ggcaccccattttatcg 1807    
+         ||||||||| | |||||
+    2183 ccgtggggtgagatagc 2167    
+
+MH617643.1: Score 24: 18/22 ( 81%) matches, 0 gaps
+    2728 actatgggggaaatctccctcg 2749    
+         ||||||  |||||||| | |||
+    2918 tgatacgtcctttagaagaagc 2897    
+
+MH617643.1: Score 27: 18/21 ( 85%) matches, 0 gaps
+    3675 tttatttttttcgaacatgta 3695    
+         ||||||||| || ||||| ||
+    4290 aaataaaaatagattgtatat 4270    
+
+MH617643.1: Score 20: 10/10 (100%) matches, 0 gaps
+    4291 gccacgtgga 4300    
+         ||||||||||
+    4324 cggtgcacct 4315    
+
+MH617643.1: Score 26: 19/23 ( 82%) matches, 0 gaps
+    4487 acagatacgaagataagtccatt 4509    
+         ||||| |||||||||  | ||||
+    4812 tgtctttgcttctatctaagtaa 4790    
+
+MH617643.1: Score 20: 10/10 (100%) matches, 0 gaps
+    5092 caggagtttt 5101    
+         ||||||||||
+    5411 gtcctcaaaa 5402    
+
+MH617643.1: Score 25: 14/15 ( 93%) matches, 0 gaps
+    5543 aaaggcctacactct 5557    
+         |||||| ||||||||
+    5573 tttccgaatgtgaga 5559    
+
+MH617643.1: Score 25: 20/25 ( 80%) matches, 0 gaps
+    7316 gcgtggtggcacgaggaaagggggc 7340    
+         || ||| | ||||| | ||||||||
+    7369 cgaaccgctgtgcttcattcccccg 7345    
+
+MH617643.1: Score 27: 15/16 ( 93%) matches, 0 gaps
+    8035 taatagtctatcttgc 8050    
+         ||||| ||||||||||
+    8082 attattagatagaacg 8067    
+
+MH617643.1: Score 31: 17/18 ( 94%) matches, 0 gaps
+    9375 ttaaaaagtatatacttt 9392    
+         ||| ||||||||||||||
+    9417 aatatttcatatatgaaa 9400    
+
+MH617643.1: Score 27: 24/31 ( 77%) matches, 0 gaps
+    9437 gggcgatggcggcggcagcggttcctgggct 9467    
+         ||||||| ||| || || ||   ||||||||
+    9501 cccgctaacgctgctgtggcttgggacccga 9471    
+
+MH617643.1: Score 30: 21/25 ( 84%) matches, 0 gaps
+    9988 tattgtgagagttatcagatagaaa 10012   
+         ||||||  |||  ||||||||||||
+   10041 ataacaagctctgtagtctatcttt 10017   
+
+MH617643.1: Score 28: 14/14 (100%) matches, 0 gaps
+   10093 atcatatcgtaagc 10106   
+         ||||||||||||||
+   10142 tagtatagcattcg 10129   

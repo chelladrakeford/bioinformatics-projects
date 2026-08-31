@@ -1,0 +1,2 @@
+#Sequence   GC content
+OP073354.1    0.47

@@ -1,0 +1,29 @@
+########################################
+# Program: etandem
+# Rundate: Tue 21 Apr 2026 15:24:54
+# Commandline: etandem
+#    -sequence phage4.fasta
+#    -outfile phage4_repeats.txt
+#    -minrepeat 10
+#    -maxrepeat 10
+# Report_format: table
+# Report_file: phage4_repeats.txt
+########################################
+
+#=======================================
+#
+# Sequence: MH593832.1     from: 1   to: 40520
+# HitCount: 0
+#
+# Threshold: 20
+# Minrepeat: 10
+# Maxrepeat: 10
+# Mismatch: No
+# Uniform: No
+#
+#=======================================
+
+  Start     End  Strand   Score   Size  Count Identity Consensus
+
+#---------------------------------------
+#---------------------------------------

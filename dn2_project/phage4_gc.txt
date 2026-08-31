@@ -1,0 +1,2 @@
+#Sequence   GC content
+MH593832.1    0.57

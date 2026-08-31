@@ -1,0 +1,205 @@
+
+MH593832.1: Score 20: 10/10 (100%) matches, 0 gaps
+     116 tacccagcca 125     
+         ||||||||||
+     807 atgggtcggt 798     
+
+MH593832.1: Score 27: 18/21 ( 85%) matches, 0 gaps
+     302 caggagaagccgtagaaagcg 322     
+         |||||||||| | |||| |||
+    1869 gtcctcttcgtcttcttccgc 1849    
+
+MH593832.1: Score 22: 20/26 ( 76%) matches, 0 gaps
+    1961 ccgctcatgcccttgccgtagaggtg 1986    
+         |||| || |||  ||||| |||| ||
+    3333 ggcgggtccggatacggcttctcgac 3308    
+
+MH593832.1: Score 21: 12/13 ( 92%) matches, 0 gaps
+    3389 gatggtcacgcgc 3401    
+         |||||||| ||||
+    3824 ctaccagttcgcg 3812    
+
+MH593832.1: Score 22: 17/21 ( 80%) matches, 0 gaps
+    4038 gtgctgcagcgcaaacgattg 4058    
+         |||  ||| ||||| ||||||
+    4421 cacttcgtggcgttggctaac 4401    
+
+MH593832.1: Score 22: 11/11 (100%) matches, 0 gaps
+    4326 atgccttcgcg 4336    
+         |||||||||||
+    4915 tacggaagcgc 4905    
+
+MH593832.1: Score 23: 16/19 ( 84%) matches, 0 gaps
+    5409 ctgcagccgcgaatccaca 5427    
+         |||||| |||| ||| |||
+    6008 gacgtccgcgcgtagctgt 5990    
+
+MH593832.1: Score 30: 18/20 ( 90%) matches, 0 gaps
+    7827 gtaagaacaaagcgccctga 7846    
+         |||||||||||||| | |||
+    7867 cattcttgtttcgcagaact 7848    
+
+MH593832.1: Score 23: 13/14 ( 92%) matches, 0 gaps
+    6348 acaccttggcaaag 6361    
+         |||||||||| |||
+    7960 tgtggaaccggttc 7947    
+
+MH593832.1: Score 32: 19/21 ( 90%) matches, 0 gaps
+    8862 atgccctagccggcggtctct 8882    
+         ||||||||| ||| |||||||
+    8967 tacgggatcagcctccagaga 8947    
+
+MH593832.1: Score 26: 13/13 (100%) matches, 0 gaps
+    8804 cgcttgcgcggct 8816    
+         |||||||||||||
+    9428 gcgaacgcgccga 9416    
+
+MH593832.1: Score 32: 19/21 ( 90%) matches, 0 gaps
+    9957 ggccagtcatgcgacgtgatc 9977    
+         |||||| |||||||| |||||
+   11781 ccggtcggtacgctggactag 11761   
+
+MH593832.1: Score 20: 10/10 (100%) matches, 0 gaps
+   12149 ggcgattcat 12158   
+         ||||||||||
+   13216 ccgctaagta 13207   
+
+MH593832.1: Score 22: 11/11 (100%) matches, 0 gaps
+   13349 gtcttgtggtc 13359   
+         |||||||||||
+   14799 cagaacaccag 14789   
+
+MH593832.1: Score 23: 16/19 ( 84%) matches, 0 gaps
+   13542 atgccgaagtgatgctgga 13560   
+         ||||  || ||||||||||
+   15328 tacgcgtttactacgacct 15310   
+
+MH593832.1: Score 21: 12/13 ( 92%) matches, 0 gaps
+   15154 ggcgcttggtagc 15166   
+         ||||||||| |||
+   15841 ccgcgaaccgtcg 15829   
+
+MH593832.1: Score 20: 13/15 ( 86%) matches, 0 gaps
+   16080 ggctgaggtgggttg 16094   
+         ||||| | |||||||
+   16354 ccgacgcgacccaac 16340   
+
+MH593832.1: Score 21: 12/13 ( 92%) matches, 0 gaps
+   16537 tccatggcggcca 16549   
+         |||||| ||||||
+   16789 aggtactgccggt 16777   
+
+MH593832.1: Score 26: 13/13 (100%) matches, 0 gaps
+   17057 atggtggttcacc 17069   
+         |||||||||||||
+   18126 taccaccaagtgg 18114   
+
+MH593832.1: Score 28: 17/19 ( 89%) matches, 0 gaps
+   18287 catgctgacggcgccgctt 18305   
+         || ||||||||||| ||||
+   19220 gtccgactgccgcgtcgaa 19202   
+
+MH593832.1: Score 22: 17/21 ( 80%) matches, 0 gaps
+   19240 agagattgactgtgcggctgg 19260   
+         |||| |||| ||| | |||||
+   20963 tctcgaactaacaagacgacc 20943   
+
+MH593832.1: Score 24: 15/17 ( 88%) matches, 0 gaps
+   21952 ctgtcaccttgatcgta 21968   
+         |||||||| ||| ||||
+   22047 gacagtggcacttgcat 22031   
+
+MH593832.1: Score 20: 10/10 (100%) matches, 0 gaps
+   22076 cgcgcgcagc 22085   
+         ||||||||||
+   23553 gcgcgcgtcg 23544   
+
+MH593832.1: Score 22: 14/16 ( 87%) matches, 0 gaps
+   23719 catcatcttgacgatg 23734   
+         ||||||||| | ||||
+   23988 gtagtagaagttctac 23973   
+
+MH593832.1: Score 24: 15/17 ( 88%) matches, 0 gaps
+   25010 acggtcagctcttgccg 25026   
+         ||| ||||||||| |||
+   25526 tgctagtcgagaagggc 25510   
+
+MH593832.1: Score 23: 16/19 ( 84%) matches, 0 gaps
+   26029 atgatcccggcaaacccct 26047   
+         |||| ||||||||  ||||
+   26143 tactcgggccgttccggga 26125   
+
+MH593832.1: Score 22: 11/11 (100%) matches, 0 gaps
+   26442 cagcgtggcca 26452   
+         |||||||||||
+   27824 gtcgcaccggt 27814   
+
+MH593832.1: Score 22: 11/11 (100%) matches, 0 gaps
+   28005 atgggcaccgg 28015   
+         |||||||||||
+   28628 tacccgtggcc 28618   
+
+MH593832.1: Score 24: 12/12 (100%) matches, 0 gaps
+   28888 agcgccgcgccc 28899   
+         ||||||||||||
+   29384 tcgcggcgcggg 29373   
+
+MH593832.1: Score 22: 14/16 ( 87%) matches, 0 gaps
+   28245 gacctggtccttcttc 28260   
+         |||||| |||||| ||
+   29639 ctggactaggaagcag 29624   
+
+MH593832.1: Score 22: 11/11 (100%) matches, 0 gaps
+   29817 ggtgcttgagg 29827   
+         |||||||||||
+   30838 ccacgaactcc 30828   
+
+MH593832.1: Score 21: 12/13 ( 92%) matches, 0 gaps
+   30884 gtccattcaggcg 30896   
+         ||||||||| |||
+   30929 caggtaagtacgc 30917   
+
+MH593832.1: Score 21: 12/13 ( 92%) matches, 0 gaps
+   31123 ccgcctgattttc 31135   
+         ||||||||| |||
+   31518 ggcggactacaag 31506   
+
+MH593832.1: Score 21: 18/23 ( 78%) matches, 0 gaps
+   31626 atccaccaggggggcggattcgt 31648   
+         ||||||| |  |  |||||||||
+   31730 taggtggacttcttgcctaagca 31708   
+
+MH593832.1: Score 24: 12/12 (100%) matches, 0 gaps
+   33057 gcgcagggcggc 33068   
+         ||||||||||||
+   33260 cgcgtcccgccg 33249   
+
+MH593832.1: Score 22: 14/16 ( 87%) matches, 0 gaps
+   32355 cgtgatcggcgtgctc 32370   
+         |||| |||||||| ||
+   33966 gcaccagccgcacaag 33951   
+
+MH593832.1: Score 21: 15/18 ( 83%) matches, 0 gaps
+   33969 gccagcctttcgggccag 33986   
+         ||||||||  ||| ||||
+   34937 cggtcggacggcctggtc 34920   
+
+MH593832.1: Score 29: 25/32 ( 78%) matches, 0 gaps
+   34016 cgcgcttcatggcggcgtcttctgtggcgatg 34047   
+         || |||  |||||||| ||||| ||  |||||
+   35386 gcccgacttaccgccgtagaagtcaaagctac 35355   
+
+MH593832.1: Score 22: 14/16 ( 87%) matches, 0 gaps
+   35387 gcgggccagcgcttca 35402   
+         ||| ||||| ||||||
+   37312 cgcgcggtcccgaagt 37297   
+
+MH593832.1: Score 28: 20/24 ( 83%) matches, 0 gaps
+   37716 gaagctgtccgcgcagttgggtga 37739   
+         ||||||  |||||| | |||||||
+   38526 cttcgatgggcgcgacgacccact 38503   
+
+MH593832.1: Score 30: 15/15 (100%) matches, 0 gaps
+   40226 ccatcattgaagcgg 40240   
+         |||||||||||||||
+   40399 ggtagtaacttcgcc 40385   

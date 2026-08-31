@@ -1,0 +1,29 @@
+########################################
+# Program: etandem
+# Rundate: Tue 21 Apr 2026 15:24:55
+# Commandline: etandem
+#    -sequence phage7.fasta
+#    -outfile phage7_repeats.txt
+#    -minrepeat 10
+#    -maxrepeat 10
+# Report_format: table
+# Report_file: phage7_repeats.txt
+########################################
+
+#=======================================
+#
+# Sequence: OP076171.1     from: 1   to: 35713
+# HitCount: 0
+#
+# Threshold: 20
+# Minrepeat: 10
+# Maxrepeat: 10
+# Mismatch: No
+# Uniform: No
+#
+#=======================================
+
+  Start     End  Strand   Score   Size  Count Identity Consensus
+
+#---------------------------------------
+#---------------------------------------
