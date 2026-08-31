@@ -1,0 +1,70 @@
+
+MH617537.1: Score 21: 12/13 ( 92%) matches, 0 gaps
+     198 tttgctgctggta 210     
+         |||||||||| ||
+     830 aaacgacgactat 818     
+
+MH617537.1: Score 26: 22/28 ( 78%) matches, 0 gaps
+     265 cagaatgccagcaatgatccttttacca 292     
+         || ||||||| | |  |||| |||||||
+    1590 gtgttacggtgggtgataggtaaatggt 1563    
+
+MH617537.1: Score 29: 25/32 ( 78%) matches, 0 gaps
+    2785 tacaaatttaacagccacagcaattgctggtg 2816    
+         |||| |  || |||| | | ||||||||||||
+    3001 atgtattcatcgtcgttatagttaacgaccac 2970    
+
+MH617537.1: Score 22: 14/16 ( 87%) matches, 0 gaps
+    2375 accggatctgctgtta 2390    
+         ||| ||| ||||||||
+    3427 tggactacacgacaat 3412    
+
+MH617537.1: Score 20: 13/15 ( 86%) matches, 0 gaps
+    3468 tgaatgttgctggtg 3482    
+         |||||||| ||| ||
+    3704 acttacaaggactac 3690    
+
+MH617537.1: Score 26: 13/13 (100%) matches, 0 gaps
+    3325 atttactgtcaat 3337    
+         |||||||||||||
+    4030 taaatgacagtta 4018    
+
+MH617537.1: Score 25: 17/20 ( 85%) matches, 0 gaps
+    4352 tgctggatatcctggataaa 4371    
+         ||||| ||||| || |||||
+    5089 acgacttatagaacttattt 5070    
+
+MH617537.1: Score 26: 13/13 (100%) matches, 0 gaps
+    5141 tatttgcatttta 5153    
+         |||||||||||||
+    6436 ataaacgtaaaat 6424    
+
+MH617537.1: Score 23: 16/19 ( 84%) matches, 0 gaps
+    6607 tatagctgtatagatgctg 6625    
+         || ||||||| ||||| ||
+    6647 atgtcgacatgtctacaac 6629    
+
+MH617537.1: Score 26: 13/13 (100%) matches, 0 gaps
+    7843 aaagatccgaaaa 7855    
+         |||||||||||||
+    7874 tttctaggctttt 7862    
+
+MH617537.1: Score 28: 17/19 ( 89%) matches, 0 gaps
+    9080 tttatcactgatgggtgat 9098    
+         ||||||||||||  |||||
+    9395 aaatagtgactagacacta 9377    
+
+MH617537.1: Score 23: 16/19 ( 84%) matches, 0 gaps
+    8623 caccagctgcaattcttgc 8641    
+         ||||||| ||||| | |||
+    9537 gtggtcgtcgttacggacg 9519    
+
+MH617537.1: Score 21: 15/18 ( 83%) matches, 0 gaps
+    9619 acatccgaaaatgtcctg 9636    
+         |||| | ||||| |||||
+   10712 tgtatgtttttataggac 10695   
+
+MH617537.1: Score 30: 14/14 (100%) matches, 0 gaps
+   11164 aaagcctggtacag 11177   
+         ||||||||||||||
+   11193 tttcggaccatgtc 11180   

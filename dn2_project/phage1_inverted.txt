@@ -1,0 +1,80 @@
+
+MH617761.1: Score 28: 14/14 (100%) matches, 0 gaps
+     654 aaaaagccttgtta 667     
+         ||||||||||||||
+     682 tttttcggaacaat 669     
+
+MH617761.1: Score 22: 17/21 ( 80%) matches, 0 gaps
+    1021 agttcacacatgataaacttt 1041    
+         ||||| |  |||||||| |||
+    1325 tcaagggaatactatttaaaa 1305    
+
+MH617761.1: Score 23: 13/14 ( 92%) matches, 0 gaps
+    1305 aaaatttatcataa 1318    
+         || |||||||||||
+    2001 ttataaatagtatt 1988    
+
+MH617761.1: Score 22: 11/11 (100%) matches, 0 gaps
+    1737 gcagatatttc 1747    
+         |||||||||||
+    2423 cgtctataaag 2413    
+
+MH617761.1: Score 23: 13/14 ( 92%) matches, 0 gaps
+    2451 aaaaaagatagaag 2464    
+         |||| |||||||||
+    2696 ttttctctatcttc 2683    
+
+MH617761.1: Score 25: 14/15 ( 93%) matches, 0 gaps
+    2730 ttttgtaaacaaatt 2744    
+         |||| ||||||||||
+    2902 aaaaaatttgtttaa 2888    
+
+MH617761.1: Score 24: 18/22 ( 81%) matches, 0 gaps
+    3296 tcacttatacagatattttttt 3317    
+         ||| || ||||||| || ||||
+    3870 agtaaaaatgtctaaaacaaaa 3849    
+
+MH617761.1: Score 22: 14/16 ( 87%) matches, 0 gaps
+    2509 aagaggttttataaaa 2524    
+         |||| || ||||||||
+    4032 ttcttcataatatttt 4017    
+
+MH617761.1: Score 26: 16/18 ( 88%) matches, 0 gaps
+    3537 ttacttttttgaaaaaca 3554    
+         || |||||||||||| ||
+    4480 aaagaaaaaacttttagt 4463    
+
+MH617761.1: Score 23: 13/14 ( 92%) matches, 0 gaps
+    4057 tttttagtaatgat 4070    
+         |||||| |||||||
+    5833 aaaaataattacta 5820    
+
+MH617761.1: Score 20: 16/20 ( 80%) matches, 0 gaps
+    5922 agagtagaattatcaaacca 5941    
+         |||  ||||| | |||||||
+    6183 tctattcttatttgtttggt 6164    
+
+MH617761.1: Score 25: 14/15 ( 93%) matches, 0 gaps
+    6320 ttttaaataattttg 6334    
+         ||||||||| |||||
+    6760 aaaatttatgaaaac 6746    
+
+MH617761.1: Score 20: 13/15 ( 86%) matches, 0 gaps
+    6841 tgctttaacttattt 6855    
+         ||||||||| | |||
+    6889 acgaaattgtagaaa 6875    
+
+MH617761.1: Score 20: 10/10 (100%) matches, 0 gaps
+    6891 taactccata 6900    
+         ||||||||||
+    6937 attgaggtat 6928    
+
+MH617761.1: Score 28: 14/14 (100%) matches, 0 gaps
+    6321 tttaaataattttg 6334    
+         ||||||||||||||
+    7119 aaatttattaaaac 7106    
+
+MH617761.1: Score 23: 13/14 ( 92%) matches, 0 gaps
+    7611 aattgaatttatag 7624    
+         |||| |||||||||
+    7677 ttaatttaaatatc 7664    

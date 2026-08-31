@@ -1,0 +1,220 @@
+
+OP075810.1: Score 25: 17/20 ( 85%) matches, 0 gaps
+     133 aatattagattgtgcaaagg 152     
+         || |||||| ||||| ||||
+     179 ttttaatctgacacgcttcc 160     
+
+OP075810.1: Score 20: 13/15 ( 86%) matches, 0 gaps
+     180 tttatgtgggggtcc 194     
+         ||| ||| |||||||
+     456 aaaaacagccccagg 442     
+
+OP075810.1: Score 20: 10/10 (100%) matches, 0 gaps
+     462 ggtgacgccg 471     
+         ||||||||||
+     654 ccactgcggc 645     
+
+OP075810.1: Score 24: 12/12 (100%) matches, 0 gaps
+    1298 cgccggcctgga 1309    
+         ||||||||||||
+    2692 gcggccggacct 2681    
+
+OP075810.1: Score 22: 11/11 (100%) matches, 0 gaps
+    2797 ggccgccctgg 2807    
+         |||||||||||
+    3401 ccggcgggacc 3391    
+
+OP075810.1: Score 26: 16/18 ( 88%) matches, 0 gaps
+    3765 tggcgtccatgtgcttcc 3782    
+         || ||||||| |||||||
+    4534 actgcaggtaaacgaagg 4517    
+
+OP075810.1: Score 24: 12/12 (100%) matches, 0 gaps
+    4722 ccaggacgacca 4733    
+         ||||||||||||
+    5755 ggtcctgctggt 5744    
+
+OP075810.1: Score 27: 18/21 ( 85%) matches, 0 gaps
+    6271 gccctgttgaccggcttcacg 6291    
+         ||||| | ||||| |||||||
+    6756 cgggagagctggcggaagtgc 6736    
+
+OP075810.1: Score 22: 11/11 (100%) matches, 0 gaps
+    6912 ttccggcggcg 6922    
+         |||||||||||
+    7578 aaggccgccgc 7568    
+
+OP075810.1: Score 24: 12/12 (100%) matches, 0 gaps
+    8263 cctggtcttcgg 8274    
+         ||||||||||||
+    8964 ggaccagaagcc 8953    
+
+OP075810.1: Score 22: 11/11 (100%) matches, 0 gaps
+    9890 ccgacgccctg 9900    
+         |||||||||||
+   10863 ggctgcgggac 10853   
+
+OP075810.1: Score 23: 13/14 ( 92%) matches, 0 gaps
+   11015 cgtcgtccggaaga 11028   
+         |||| |||||||||
+   11286 gcagaaggccttct 11273   
+
+OP075810.1: Score 22: 11/11 (100%) matches, 0 gaps
+   11300 cgaccgtcttc 11310   
+         |||||||||||
+   12292 gctggcagaag 12282   
+
+OP075810.1: Score 22: 17/21 ( 80%) matches, 0 gaps
+   12692 ttcgctacttcaagacggacg 12712   
+         ||||| || ||| || |||||
+   12953 aagcggtgcagtgcttcctgc 12933   
+
+OP075810.1: Score 24: 12/12 (100%) matches, 0 gaps
+   13396 gacggcctgatc 13407   
+         ||||||||||||
+   13795 ctgccggactag 13784   
+
+OP075810.1: Score 22: 11/11 (100%) matches, 0 gaps
+   13559 cccagaagggc 13569   
+         |||||||||||
+   13959 gggtcttcccg 13949   
+
+OP075810.1: Score 27: 18/21 ( 85%) matches, 0 gaps
+   13878 cccgcgtcaaggcccttctga 13898   
+         ||||| | |||||| ||||||
+   15116 gggcgaacttccggcaagact 15096   
+
+OP075810.1: Score 24: 12/12 (100%) matches, 0 gaps
+   13914 ccctgtccacga 13925   
+         ||||||||||||
+   15201 gggacaggtgct 15190   
+
+OP075810.1: Score 23: 16/19 ( 84%) matches, 0 gaps
+   14790 ccttctattcctacaaggg 14808   
+         ||||| | |||| ||||||
+   15980 ggaagctgaggaagttccc 15962   
+
+OP075810.1: Score 26: 22/28 ( 78%) matches, 0 gaps
+   16742 cgccgaggacttccgtatgttccacggc 16769   
+         |||  ||||||||| | ||||| | |||
+   17379 gcgcttcctgaaggaagacaagttcccg 17352   
+
+OP075810.1: Score 22: 11/11 (100%) matches, 0 gaps
+   16069 aaaggtcgacg 16079   
+         |||||||||||
+   17687 tttccagctgc 17677   
+
+OP075810.1: Score 21: 21/28 ( 75%) matches, 0 gaps
+   18128 aagtgaaggacggtgatctggcttgacc 18155   
+         ||||  |||||   ||||||| | ||||
+   18340 ttcatgtcctgaagctagacctagctgg 18313   
+
+OP075810.1: Score 28: 14/14 (100%) matches, 0 gaps
+   18236 gaaggacgccgacg 18249   
+         ||||||||||||||
+   19514 cttcctgcggctgc 19501   
+
+OP075810.1: Score 23: 16/19 ( 84%) matches, 0 gaps
+   18087 cgtcggccgcccggccgtc 18105   
+         |||||  ||||| ||||||
+   19874 gcagcaagcgggtcggcag 19856   
+
+OP075810.1: Score 23: 13/14 ( 92%) matches, 0 gaps
+   20199 ggtcaacggcaaca 20212   
+         ||||||| ||||||
+   21829 ccagttgacgttgt 21816   
+
+OP075810.1: Score 22: 11/11 (100%) matches, 0 gaps
+   21850 ccttcgcggcg 21860   
+         |||||||||||
+   22829 ggaagcgccgc 22819   
+
+OP075810.1: Score 25: 14/15 ( 93%) matches, 0 gaps
+   22341 gggtccagtccgtcg 22355   
+         |||||||| ||||||
+   23423 cccaggtcgggcagc 23409   
+
+OP075810.1: Score 25: 17/20 ( 85%) matches, 0 gaps
+   23416 ctggacccggttcgtttcct 23435   
+         || ||||||||  |||||||
+   24050 gagctgggccagacaaagga 24031   
+
+OP075810.1: Score 24: 12/12 (100%) matches, 0 gaps
+   24251 ggatcacaccct 24262   
+         ||||||||||||
+   25170 cctagtgtggga 25159   
+
+OP075810.1: Score 27: 15/16 ( 93%) matches, 0 gaps
+   25223 gtgacgccggccgccg 25238   
+         |||||||||||| |||
+   26383 cactgcggccggtggc 26368   
+
+OP075810.1: Score 22: 14/16 ( 87%) matches, 0 gaps
+   26171 ggttgaacttcttccc 26186   
+         |||||| |||| ||||
+   26601 ccaactagaagcaggg 26586   
+
+OP075810.1: Score 22: 14/16 ( 87%) matches, 0 gaps
+   27068 ttccggcgaacctggt 27083   
+         |||||||||| | |||
+   27848 aaggccgcttcggcca 27833   
+
+OP075810.1: Score 21: 12/13 ( 92%) matches, 0 gaps
+   26650 gggcggtggcgaa 26662   
+         |||| ||||||||
+   27878 cccggcaccgctt 27866   
+
+OP075810.1: Score 21: 15/18 ( 83%) matches, 0 gaps
+   27999 attatccaacctgttcac 28016   
+         ||| ||||||  ||||||
+   29087 taaaaggttgtccaagtg 29070   
+
+OP075810.1: Score 21: 12/13 ( 92%) matches, 0 gaps
+   29126 ccgcccttcgccc 29138   
+         |||||||||| ||
+   29873 ggcgggaagcagg 29861   
+
+OP075810.1: Score 20: 13/15 ( 86%) matches, 0 gaps
+   30033 cgtcggcgcggtggt 30047   
+         || ||||||||| ||
+   30223 gccgccgcgccaaca 30209   
+
+OP075810.1: Score 26: 13/13 (100%) matches, 0 gaps
+   30342 ccaggccgaagcc 30354   
+         |||||||||||||
+   31642 ggtccggcttcgg 31630   
+
+OP075810.1: Score 23: 13/14 ( 92%) matches, 0 gaps
+   32310 gggcggttcttatt 32323   
+         |||| |||||||||
+   33241 cccgacaagaataa 33228   
+
+OP075810.1: Score 23: 16/19 ( 84%) matches, 0 gaps
+   33271 ttcattgtgtggtcggtca 33289   
+         |||| ||||| | ||||||
+   33769 aagtgacacatctgccagt 33751   
+
+OP075810.1: Score 26: 13/13 (100%) matches, 0 gaps
+   34591 aaaggcggacggg 34603   
+         |||||||||||||
+   34621 tttccgcctgccc 34609   
+
+OP075810.1: Score 24: 18/22 ( 81%) matches, 0 gaps
+   34766 gaagccgttctgttccgccagg 34787   
+         || |||| | | ||||||||||
+   35826 ctgcggccaaaaaaggcggtcc 35805   
+
+OP075810.1: Score 26: 13/13 (100%) matches, 0 gaps
+   35905 gccgacgccctgg 35917   
+         |||||||||||||
+   36531 cggctgcgggacc 36519   
+
+OP075810.1: Score 23: 19/24 ( 79%) matches, 0 gaps
+   36707 gtcgtcgcggcccttgatcgcctt 36730   
+         ||| |||  | ||| |||||||||
+   36988 cagaagctgccggacctagcggaa 36965   
+
+OP075810.1: Score 24: 12/12 (100%) matches, 0 gaps
+   37194 cagcagccccgc 37205   
+         ||||||||||||
+   37224 gtcgtcggggcg 37213   
