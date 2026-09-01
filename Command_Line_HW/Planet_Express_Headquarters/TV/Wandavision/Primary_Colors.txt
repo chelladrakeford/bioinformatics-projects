@@ -1,8 +1,0 @@
-Episode	Color
-1	Grey
-2	Gray
-3	Green
-4	Red
-5	Neon Orange
-6	Blue
-7	Purple
